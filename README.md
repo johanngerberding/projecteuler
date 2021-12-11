@@ -1,7 +1,5 @@
 # Project Euler
 
-* [https://projecteuler.net/archives](Project Euler Problemsets)
-
-Here I will share my project euler problemset solutions.
+Here I will share my [project euler](projecteuler.net) problemset solutions.
 
 Have fun!
